@@ -1,2 +1,2 @@
 # LnsooxD
-LnsooxD
+https://github.com/LnsooXD
